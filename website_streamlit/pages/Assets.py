@@ -339,7 +339,6 @@ def app():
     st.markdown("<br><hr style='border-color: rgba(255,255,255,0.05);'>", unsafe_allow_html=True)
     st.markdown("""
         <div style="text-align:center; padding: 2rem 0; color: #71717a; font-size: 0.85rem;">
-            <p>Developed in the <b>RoboInvesting</b> project style</p>
             <p style="max-width: 700px; margin: 0 auto; color: #52525b;">
                 <b>Disclaimer:</b> This page is for educational and exploratory analysis only. 
                 Predictions shown here are lightweight models and should not be used as financial advice.
